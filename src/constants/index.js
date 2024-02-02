@@ -144,7 +144,7 @@ import {
       iconBg: "#E6DEDD",
       date: " ",
       points: [
-        "Solved 100+ Leetcode problems",
+        "Solved 300+ Leetcode problems",
         "5 ⭐ in Hackerrank in C++",
         "3 ⭐ in Hackerrank in SQL",
         "Regularly trying to upscale problem solving and coding skills.",
@@ -164,7 +164,7 @@ import {
         "NewsMonkey",
         "iNoteBook",
         "FindYourFlix - Movie Recomendation",
-        "FaceRecognition - OpenCV project",
+        "DetectifyX - Object detection",
         "TrasHack - Waste Classification Model",
         "Diesease Prediction Model for diabetes, parkinson diesease, heart diesease",
       ],
